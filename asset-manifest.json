@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/State-Management-using-React-Hooks/static/js/main.d0e7551c.chunk.js",
+    "main.js.map": "/State-Management-using-React-Hooks/static/js/main.d0e7551c.chunk.js.map",
+    "runtime-main.js": "/State-Management-using-React-Hooks/static/js/runtime-main.c435f524.js",
+    "runtime-main.js.map": "/State-Management-using-React-Hooks/static/js/runtime-main.c435f524.js.map",
+    "static/js/2.b074a0d5.chunk.js": "/State-Management-using-React-Hooks/static/js/2.b074a0d5.chunk.js",
+    "static/js/2.b074a0d5.chunk.js.map": "/State-Management-using-React-Hooks/static/js/2.b074a0d5.chunk.js.map",
+    "index.html": "/State-Management-using-React-Hooks/index.html",
+    "static/js/2.b074a0d5.chunk.js.LICENSE.txt": "/State-Management-using-React-Hooks/static/js/2.b074a0d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c435f524.js",
+    "static/js/2.b074a0d5.chunk.js",
+    "static/js/main.d0e7551c.chunk.js"
+  ]
+}
