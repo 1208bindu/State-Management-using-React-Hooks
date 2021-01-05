@@ -1,6 +1,6 @@
-# Download the code and run 
+## Download the code and run 
 
-`npm insall` 
+### `npm insall` 
 
 to install the dependencies 
 
